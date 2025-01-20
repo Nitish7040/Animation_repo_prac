@@ -45,7 +45,7 @@ breaktext();
 //     opacity:0
 // })
 
-gsap.from("h1 .a",{
+gsap.from("h1 .a ",{
     y:80,
     duration:0.6,
     delay:0.5,
